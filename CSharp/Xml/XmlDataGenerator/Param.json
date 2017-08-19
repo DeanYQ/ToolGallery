@@ -1,0 +1,6 @@
+﻿{
+    ItemCount: 1000000,
+    MaxAttrCount: 10,
+    MaxAttrValue: 100,
+    ChildCount:  10
+}
