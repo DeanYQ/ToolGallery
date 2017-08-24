@@ -1,0 +1,5 @@
+E:\03_projects\Tools\XmlDataGenerator\Utilities\bin\Debug\Utilities.dll
+E:\03_projects\Tools\XmlDataGenerator\Utilities\bin\Debug\Utilities.pdb
+E:\03_projects\Tools\XmlDataGenerator\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\03_projects\Tools\XmlDataGenerator\Utilities\obj\Debug\Utilities.dll
+E:\03_projects\Tools\XmlDataGenerator\Utilities\obj\Debug\Utilities.pdb
